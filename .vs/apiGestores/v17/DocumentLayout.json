@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|c:\\users\\fernando\\downloads\\examenings3\\apigestores\\apigestores\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|solutionrelative:apigestores\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|c:\\users\\fernando\\downloads\\examenings3\\apigestores\\apigestores\\controllers\\gestorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|solutionrelative:apigestores\\controllers\\gestorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|c:\\users\\fernando\\downloads\\examenings3\\apigestores\\apigestores\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|solutionrelative:apigestores\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|c:\\users\\fernando\\downloads\\examenings3\\apigestores\\apigestores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|solutionrelative:apigestores\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|c:\\users\\fernando\\downloads\\examenings3\\apigestores\\apigestores\\models\\gestores_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|solutionrelative:apigestores\\models\\gestores_bd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|c:\\users\\fernando\\downloads\\examenings3\\apigestores\\apigestores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{06102C3F-9ED0-4C2B-BAD6-17BD08ECDF34}|apiGestores\\apiGestores.csproj|solutionrelative:apigestores\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "apiGestores\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Properties\\launchSettings.json",
+              "RelativeToolTip": "apiGestores\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T03:54:03.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GestoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Controllers\\GestoresController.cs",
+              "RelativeDocumentMoniker": "apiGestores\\Controllers\\GestoresController.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Controllers\\GestoresController.cs",
+              "RelativeToolTip": "apiGestores\\Controllers\\GestoresController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAABYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:40:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Startup.cs",
+              "RelativeDocumentMoniker": "apiGestores\\Startup.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Startup.cs",
+              "RelativeToolTip": "apiGestores\\Startup.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:25:57.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\appsettings.json",
+              "RelativeDocumentMoniker": "apiGestores\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\appsettings.json",
+              "RelativeToolTip": "apiGestores\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T03:20:10.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "apiGestores\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "apiGestores\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:12:37.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gestores_Bd.cs",
+              "DocumentMoniker": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Models\\Gestores_Bd.cs",
+              "RelativeDocumentMoniker": "apiGestores\\Models\\Gestores_Bd.cs",
+              "ToolTip": "C:\\Users\\Fernando\\Downloads\\ExamenINGS3\\apiGestores\\apiGestores\\Models\\Gestores_Bd.cs",
+              "RelativeToolTip": "apiGestores\\Models\\Gestores_Bd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:08:07.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
